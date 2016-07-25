@@ -1,0 +1,10 @@
+{
+  "realm": "Mpfn",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2jY8U3qllQHDyjd/8B5Qf7+IPn1x6bwXidzlfumQp4n/fBAq3k+yUA6SBYpySBWJq8STLBRx9AAbh2w5N2x1eXv4c+vSrhI5wzHc5E1qjv+JcKP0p+CVMWKcie4brjWykCwLpmADtGoFvRcEOqLG7JWqvDrCsRI9UPTIudSL4mqWklqQengDGUF0fMc1h2EllxBTMCClsk27Xp1K+ZFtAcefJ6vOZm4nK5UebP34VV/YeUbXxz4Y7FcNS59ntMhaTQCPtIQATeoJDTZd7uTeuE1KZOYcu3lsMuXk5Yhj1okZkVSoi60rhWgKDjp/1y0zLCrD9AE+ZaVsgPxywYyQ6QIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "frontend",
+  "credentials": {
+    "secret": "f63085ee-1269-41ab-b2d9-4f3bb1e59119"
+  }
+}
