@@ -1,0 +1,8 @@
+{
+  "realm": "Mpfn",
+  "auth-server-url": "http://localhost:8080/auth",
+  "resource": "backend",
+  "credentials": {
+    "secret": "6dba2d52-2e40-4d07-a9cf-70427d7ac1dc"
+  }
+}
